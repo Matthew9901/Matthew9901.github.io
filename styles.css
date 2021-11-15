@@ -2,7 +2,7 @@ body{
     background:pink;
     font-family:Arial, Helvetica, sans-serif;
 }
-    .assignment{
+    .assignments{
         display: flex;
         flex-wrap:wrap;
     }
